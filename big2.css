@@ -1,0 +1,73 @@
+.body {
+    background-image: url(bg.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+.teks {
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 25px;
+    margin: 30px;
+    font-size: 15px;
+    background-color: deepskyblue;
+    display:grid;
+}
+
+.isi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card1 {
+    margin-left: 30px;
+}
+.card2 {
+    margin-right: 30px;
+}
+.card3 {
+    margin-left: 35px;
+}
+.cardb {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card4 {
+    padding-top: 50px;
+    margin-left: 25px;
+}
+.card5 {
+    padding-top: 50px;
+    margin-left: 30px;
+}
+.card6 {
+    padding-top: 50px;
+    margin-left: 20px;
+}
+.cardc {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.card7 {
+    padding-top: 50px;
+    margin-left: 25px;
+}
+.card8 {
+    padding-top: 50px;
+    margin-left: 25px;
+}
+.card9 {
+    padding-top: 50px;
+    margin-left: 40px;
+}
+.card10 {
+    padding-top: 50px;
+    margin-left: 25px;
+}
