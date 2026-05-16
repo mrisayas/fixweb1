@@ -59,9 +59,25 @@ nav ul li a:hover {
     text-align: center;
     padding: 150px;
 }
+.isi {
+    justify-content: center;
+    text-align: center;
+    padding-top: 300px;
+}
 
 
-.cardd-grid {
+
+
+
+
+
+
+
+
+
+
+
+.card-grid {
     display: flex;
     justify-content: center;
     width: 300px;
