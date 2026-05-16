@@ -55,6 +55,10 @@ nav ul li a:hover {
         align-items: center;
     }
 }
+.teks {
+    text-align: center;
+    padding: 150px;
+}
 
 
 .cardd-grid {
